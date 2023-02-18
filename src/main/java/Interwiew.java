@@ -1,7 +1,10 @@
 public class Interwiew {
 
+    public static void main(String[] args) {
 
+    }
  /*
+
 
                             * * * JAVA INTERVIEW SORULARI * * *
 
